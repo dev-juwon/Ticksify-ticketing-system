@@ -1,0 +1,2 @@
+# Ticksify-ticketing system
+ Ticksify is an uncomplicated customer support application that is self-hosted, built with Laravel, Livewire, and Tailwind CSS, and effortless to use. The application is fully responsive and mobile-friendly, making it an excellent solution for managing customer support for small and medium-sized businesses. In addition, Ticksify provides a cost-effective alternative to pricey customer support software such as Zendesk and Freshdesk. customer support software like Zendesk, Freshdesk, etc.
